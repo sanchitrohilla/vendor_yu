@@ -364,5 +364,4 @@ PRODUCT_PACKAGES += \
     qcnvitems \
     qcrilhook \
     libaudioalsa \
-    com.qualcomm.location \
     vendor.qti.hardware.fm@1.0
